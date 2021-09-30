@@ -1,4 +1,4 @@
-### Notion
+### Development log
 <a href="https://polyester-acorn-10f.notion.site/5e0b87ca39364a02ad36351714c2dfd4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### Platforms & Languages
