@@ -1,5 +1,5 @@
 ## Development log
-<a href="https://polyester-acorn-10f.notion.site/e5b5c098014440da80c562098bfcfb04" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://polyester-acorn-10f.notion.site/PortFolio-528dc182d6c7496797c1c94322c0f236" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## Platforms & Languages
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
