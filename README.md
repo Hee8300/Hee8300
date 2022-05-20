@@ -1,5 +1,4 @@
-### Click Me 👉🏻
-<a href="https://polyester-acorn-10f.notion.site/02f8d7879a564438af73468103686400?v=068100be967e41f08c93ac925fded834" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+### Blog 🔖
 <a href="https://velog.io/@high_sky8320" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ### Call Here 📨
